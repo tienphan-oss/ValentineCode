@@ -1,5 +1,5 @@
 // Thay đổi nội dung búc thư ở đây
-var letterContent = "Yêu xa đúng là một thử thách lớn dành cho chúng mình. Anh cảm thấy thương em vô cùng khi đón ngày lễ Tình yêu mà không có anh bên cạnh. Tất cả càng khiến anh yêu em nhiều hơn nữa, chúc mừng Valentine người yêu của anh!"
+var letterContent = "cao bằng mảnh đất trữ tình có anh tên ộ, rình rình trong bar mồm miệng thì bú i a lên stream khẩu hiệu bỏ nha mọi người lúc nào anh cũng tươi cười xây trường từ thiện mọi người noi theo lươn anh thì lại rất bèo đồng hồ hàng hiệu anh đeo thôi mà trung quân ái quốc từ cha có con trai cả tên là beomen đồng đội anh rất ngang tài hở ra anh kick, chẳng màng đúng sai mỗi năm đúng tháng 12 tiền anh vài tỷ, lai rai xây cầu fan anh thấy thế rất ngầu màu anh thích nhất, là màu sha shi anh tôi vốn rất thật thà tà anh thích nhất là tà bỏ chay"
 
 // Tốc độ viết chữ. Số càng nhỏ tốc độ càng nhanh. 50 là tốc độ khá phù hợp
 durationWrite = 50 
